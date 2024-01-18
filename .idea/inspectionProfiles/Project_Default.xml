@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="org.slf4j:jcl-over-slf4j" />
+          <option value="com.itextpdf:barcodes" />
+          <option value="com.itextpdf:hyph" />
+          <option value="com.itextpdf:font-asian" />
+          <option value="com.itextpdf:kernel" />
+          <option value="com.itextpdf:io" />
+          <option value="com.itextpdf:layout" />
+          <option value="com.itextpdf:forms" />
+          <option value="com.itextpdf:pdfa" />
+          <option value="com.itextpdf:sign" />
+          <option value="org.hibernate:hibernate-core" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
